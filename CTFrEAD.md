@@ -1,6 +1,6 @@
 # CTf TIPS And Commands 
 
-#  ` STEGANOGRAPHY`
+##  `STEGANOGRAPHY``
 ```
 steghide extract -sf stegosteg.jpg 
 ```
@@ -11,7 +11,7 @@ stegseek --seed [stegofile.jpg]
 stegseek [stegofile.jpg] [wordlist.txt]
 ```
 
-```Cryptography```
+##   `Cryptography`
 ```
 cyberchef   
 crackstation.net
@@ -28,7 +28,8 @@ john secure2.txt --wordlist=/usr/share/wordlists/rockyou.txt
 HACKTOOLS EXTENSION - FIREFOX
 ```
 
-```dIRECTORY 
+###  ``dIRECTORY``
+```
 gobuster dir -e -u [ip] -w /usr/share/wordlists/dirb/common.txt
 ```
 
@@ -41,8 +42,9 @@ gobuster dir -e -u [ip] -w /usr/share/wordlists/dirb/common.txt
 /usr/share/seclists/Fuzzing/extensions-most-common.fuzz.txt
 ```
 
-``` smb ```
 
+
+##  `smb`
 ```
 smbclient //<IP>/anonymous
 smbget -R smb://MACHINE_IP/anonymous
