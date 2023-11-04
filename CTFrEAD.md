@@ -53,4 +53,9 @@ nmap -p 445 --script=smb-enum-shares.nse,smb-enum-users.nse MACHINE_IP
 ```
 ```
 ```
+## Reverse Engineering 
+```
+ghidra```
+``` binwalk
+objdump ```
 
