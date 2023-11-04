@@ -10,7 +10,8 @@ stegseek --seed [stegofile.jpg]
 stegseek [stegofile.jpg] [wordlist.txt]
 ```
 
-```Cryptography 
+```Cryptography```
+```
 cyberchef   
 crackstation.net
 cryptii.com
