@@ -58,4 +58,28 @@ nmap -p 445 --script=smb-enum-shares.nse,smb-enum-users.nse MACHINE_IP
 ghidra```
 ``` binwalk
 objdump ```
+``` IDA/RADAR
+```
+```
+r2 - filename
+```
+```
+AAA - analayse 
+```
+```afl 
+```
+```
+pdf @main - view 
+```
+```
+db - breakpoint
+```
+```
+ood - proecess
+```
+
+```
+dc - continue after breakpoint
+```
+
 
