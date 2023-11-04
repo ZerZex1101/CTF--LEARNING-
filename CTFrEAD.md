@@ -1,6 +1,7 @@
 # CTf TIPS And Commands 
 
-``` STEGANOGRAPHY
+``` STEGANOGRAPHY````
+```
 steghide extract -sf stegosteg.jpg 
 ```
 ```
