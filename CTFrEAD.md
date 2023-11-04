@@ -60,8 +60,7 @@ ghidra```
 objdump ```
 ```
 # ``IDA/RADAr``
-```
-```
+
 ```
 r2 -d  filename
 ```
@@ -69,8 +68,7 @@ r2 -d  filename
 AAA - analayse 
 ```
 ```afl ```
-```
-```
+
 ```
 pdf @main - view 
 ```
