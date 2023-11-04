@@ -58,8 +58,9 @@ nmap -p 445 --script=smb-enum-shares.nse,smb-enum-users.nse MACHINE_IP
 ghidra```
 ``` binwalk
 objdump ```
-
-# ` IDA/RADAR`
+```
+# ``IDA/RADAr``
+```
 ```
 ```
 r2 -d  filename
