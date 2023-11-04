@@ -61,7 +61,7 @@ objdump ```
 ``` IDA/RADAR
 ```
 ```
-r2 - filename
+r2 -d  filename
 ```
 ```
 AAA - analayse 
@@ -77,7 +77,6 @@ db - breakpoint
 ```
 ood - proecess
 ```
-
 ```
 dc - continue after breakpoint
 ```
