@@ -10,6 +10,12 @@ stegseek --seed [stegofile.jpg]
 ```
 stegseek [stegofile.jpg] [wordlist.txt]
 ```
+```
+binwalk -e {pic}
+```
+```
+exiftool pic
+```
 
 ##   `Cryptography`
 ```
